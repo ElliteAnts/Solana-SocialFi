@@ -7,7 +7,7 @@ Solana SocialFi Platform for solana developers:
 ## Contact
 
 Recently, Solana is focusing on DeFi and GameFi and users want to get profit with their product, so this socialFi platform will be potential.
-If you wanna build this kinda project, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+If you wanna build this kinda project, contact here: [Telegram](https://t.me/WebFiveFingers)
 
 ## Project Overview
 
